@@ -1,4 +1,6 @@
 # Bert QA Chatbot
+## Get the repository
+git@github.com:CeiHau/chatbot.git
 
 ## Intallation and running
 ### Install pacakges
