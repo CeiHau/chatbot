@@ -49,6 +49,7 @@ Then we can ask question about new topic(context)
 ![](pic/q2.png)
 
 
+
 # Reference
 [BERT NLP — How To Build a Question Answering Bot](https://towardsdatascience.com/bert-nlp-how-to-build-a-question-answering-bot-98b1d1594d7b) <br/>
 [【機器學習2021】Transforme Hung-yi Lee ](https://www.youtube.com/watch?v=n9TlOhRjYoc) <br/>
